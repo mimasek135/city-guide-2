@@ -1,0 +1,125 @@
+/* Мои цвета:
+   #F4F6F5 фон
+   #1E292B текст
+   #2A7B6F акцент
+   #FFFFFF карточки */
+.hero-label {
+  color: orange;
+}
+
+body {
+  margin: 0;
+  background-color: black;
+  color: blueviolet;
+  font-size: medium;
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+}
+
+h1,
+h2,
+h3 {
+  color: orange;
+}
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 26px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+.accent {
+  color: #2a7b6f;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.hero-label {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+}
+
+.site-header {
+  padding: 16px 32px;
+  background-color: aqua;
+  color: #7c1b1b;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.menu {
+  color: firebrick;
+  margin-right: 20px;
+}
+.button {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #2a7b6f;
+}
+
+.button-outline {
+  background-color: #ffffff;
+  border: 2px solid #2a7b6f;
+  color: #2a7b6f;
+}
+.card {
+  width: 340px;
+  box-sizing: border-box;
+  padding: 20px;
+  border: 1px solid #d5e0dd;
+  border-radius: 12px;
+  background-color: #ffffff;
+  margin-bottom: 20px;
+}
+.card-icon {
+  font-size: large;
+}
+.card h3 {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+.card-info {
+  font-size: 14px;
+  font-weight: bold;
+  color: #2a7b6f;
+}
+
+.hero,
+.places,
+.tips {
+  padding: 32px;
+}
+
+.note {
+  background-color: #e6efea;
+  padding: 16px 20px;
+  border-left: 4px solid #2a7b6f;
+}
+.site-footer {
+  background-color: cadetblue;
+  color: antiquewhite;
+  text-align: center;
+}
+
+.card-top {
+  background-color: #edf6f4;
+  border: 2px solid #2a7b6f;
+}
+
+/* Размеры коробки .card:
+   ширина содержимого: 297.049px
+   padding: 20px
+   border: 1.481px
+   margin снизу: 20px */
